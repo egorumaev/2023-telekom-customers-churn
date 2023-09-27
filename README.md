@@ -9,7 +9,7 @@
 
 * Pandas, Numpy, Matplotlib, Seaborn, Skimpy, Datetime, ydata-profiling, Psutil, Phik, Sklearn, Imblearn, Catboost, Xgboost, LightGBM
 
-* Pipeline, RandomizedSearchCV, MinMaxScaler, mutual_info_regression, Mutual Information, OneHotEncoder, OrdinalEncoder, MinMaxScaler, SelectKBest, chi2, VotingClassifier, confusion_matrix, background_gradient
+* Pipeline, Feature Engineering, RandomizedSearchCV, MinMaxScaler, mutual_info_regression, Mutual Information, OneHotEncoder, OrdinalEncoder, MinMaxScaler, SelectKBest, chi2, VotingClassifier, confusion_matrix, background_gradient
 
 ---
 
